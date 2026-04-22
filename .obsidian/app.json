@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "vimMode": false,
+  "userIgnoreFilters": [
+    "Media/"
+  ],
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Media"
+}

@@ -1,0 +1,23 @@
+###### Written by: Ryo Soikutsu
+# Description
+DAZZLE alloys are a classification of abyssal-infused high-entropy alloys which possess incredible camouflage and invisibility properties. Alloys in this category tend to absorb, scatter or otherwise cancel out electromagnetic radiation across the entire electromagnetic spectrum, while the refractive-index grading eliminate specular reflections. Both properties work together to ensure that DAZZLE-class alloys remain undetectable via electromagnetic-based detection mechanisms, such as Xray machines and infrared cameras, while also rendering the object invisible to conventional optics. 
+
+An upgraded form of the alloy, known as Q-DAZZLE, builds on the base properties of the alloy. It completely renders the object undetectable to non-quantum means of detection, while providing significant levels of protection against quantum sensors. Q-DAZZLE alloys tend to have increased entropy levels compared to regular DAZZLE alloys, and as such are highly unstable in larger constructs, such as aircraft and ships. 
+
+A third form of DAZZLE alloys has been theorized, where the object is only visible to a specific individual. Such alloys are coined as "soulbound materials", as they are speculated to be linked to the individual's consciousness or soul, rendering them undetectable and invisible to anyone else. Only one prototype of a soulbound DAZZLE alloy has been developed, known as soulforge steel. The prototype is even more unstable than Q-DAZZLE, and cannot maintain any cohesive shape for longer than a few seconds. 
+
+# Production
+DAZZLE and Q-DAZZLE alloys share a similar production line, with the only difference being the amount and concentration of abyssal material added to the final alloy. DAZZLE alloys are split into two main components, the base alloy and the abyssal material. There is a wide range of base alloys that have been tested to be suitable for DAZZLE production, and some of the most common alloys are listed below
+- Aluminum alloy - Excellent strength-to-weight ratio, used in almost all aircrafts, portable equipment, casings and more
+- Titanium alloy - Immense strength at elevated temperatures, commonly used in the components of jet engines and high-stress parts
+- Chrome-Moly steels - Good heat resistance and high fatigue strength, used to manufacture the barrels of small arms, as well as artillery components
+- Tool steels - Distinctive hardness, abrasion and deformation resistant, commonly used to manufacture equipment for field and research use
+
+Manufacturing the abyssal material requires the use of high-grade abyssal plasma, which is produced at steps 2 and 3 of the abyssal plasma processing line. High-grade abyssal plasma can be centrifuged to separate it into large quantities of rare-earth-metal plasma, adamantium plasma, tritium plasma and small quantities of precision-grade abyssal plasma. The hot precision-grade abyssal plasma is then transferred to specialized ingot casts, where the plasma deionizes and solidifies into abyssal ingots. The solidified abyssal ingots can then be used in single-stage industrial alloy smelters with the base alloy to produce DAZZLE and Q-DAZZLE alloys. 
+
+# Applications
+Due to their detection suppression properties, DAZZLE and Q-DAZZLE alloys tend to be used to produce equipment and vehicles for covert, espionage and/or smuggling purposes. DAZZLE and Q-DAZZLE can be reshaped into nanofibers and woven into armor and clothing, granting the wearer its invisibility properties in exchange for lower protection compared to standard gear. Q-DAZZLE is often used to manufacture small arms and handheld tools, due to its unstable nature. 
+
+Equipment and vehicles can be coated with DAZZLE and Q-DAZZLE alloys instead, which is more cost-efficient at the expense of lower effectiveness and the need to recoat if the alloy is scratched off. DAZZLE alloys made of certain base alloys may also possess the added trait of "programmable" electromagnetic signatures, allowing the user to predetermine how the object will show up on electromagnetic sensors. For example, an espionage officer may use a pre-programmed DAZZLE briefcase to program the briefcase to appear as if it was full of mundane papers, while in reality it carries firearms or precious metals. 
+
+Due to the immense amount of energy required to deionize high-grade abyssal plasma, coupled with the (currently) low returns of precision-grade abyssal plasma, DAZZLE alloys tend to be used sparingly, only being issued to high-ranking operators or members of the Executive Board. Known regular users of DAZZLE/Q-DAZZLE-alloy equipment and vehicles include Director Ryo Soikutsu and Associate Director "Nox"

@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "ff4fc586cd345f2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "06f9d41d88a6534b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa0baa7e451ba75c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Environment/TODO - Abyssal Matter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO - Abyssal Matter"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8685a50c3d4f44b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf226d8ef30fa1f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d26508eae8881dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab1555b58fb341af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "\"Nox\"",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "07b917b32e44183e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.5110321044922
+  },
+  "right": {
+    "id": "ee93bb7505249324",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8167d55f8a731f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65395c6b5945724a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dimensions/Abyssal Dimension.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Abyssal Dimension"
+            }
+          },
+          {
+            "id": "ceea3bb6ca3fe7b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dimensions/Abyssal Dimension.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Abyssal Dimension"
+            }
+          },
+          {
+            "id": "de5dc5a4de3a2872",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e35b82813d89b7a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dimensions/Abyssal Dimension.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Abyssal Dimension"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-importer:Open Importer": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "aa0baa7e451ba75c",
+  "lastOpenFiles": [
+    "Environment/Dimensions/Abyssal Dimension.md",
+    "Environment/TODO - Abyssal Matter.md",
+    "Doctrines/Low-Orbital Support (LOS).md",
+    "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
+    "Research/Technology/Abyssal-powered Interdimensional Travel (AIT).md",
+    "Research/Technology/TODO - Neutralization, Disruption and Suppression (NDS).md",
+    "Research/Materials/DAZZLE-class Alloys.md",
+    "Equipment/Aircraft/X-04 Hyper Wyvern.md",
+    "Doctrines/TODO - Long-Range Mobile Research (LRMR).md",
+    "Organizations/Northland Foundation/Staff/Researchers/Untitled.base",
+    "Research/Industry/TODO - Resource Harvesting.md",
+    "Research/Industry/TODO - Ore Refining and Processing.md",
+    "Organizations/Northland Foundation/Operations/TODO - Classification System.md",
+    "Organizations/Northland Foundation/Operations/TODO - Finance.md",
+    "Organizations/Northland Foundation/Operations/TODO - Day-to-Day Operations.md",
+    "Equipment/Spaceships/TODO - Aegis-Class Support Carrier.md",
+    "Equipment/Spaceships/TODO - Prospector-Class Industrial Carrier.md",
+    "Equipment/Spaceships",
+    "Environment/Dimensions/Abyssal Refinement.md",
+    "Operations/TODO - Operation Great Host Fleet II.md",
+    "Operations",
+    "TODO.md",
+    "Research/Industry/TODO - Manufacturing.md",
+    "Research/Technology",
+    "Research/Materials",
+    "Organizations/Northland Foundation/Staff/Mobile Task Forces/TODO - Crimson Squadron.md",
+    "Organizations/Northland Foundation/Staff/Mobile Task Forces",
+    "Organizations/Northland Foundation/Facilities/Sanctuary Site-0/TODO - Library of Alexandria.md",
+    "Organizations/Northland Foundation/Operations",
+    "Organizations/Northland Foundation/Facilities/Sanctuary Site-0/TODO - Headquarters.md",
+    "Organizations/Northland Foundation/Facilities/Sanctuary Site-0",
+    "Organizations/Northland Foundation/Facilities",
+    "Organizations/Northland Foundation/Staff/Executive Council",
+    "NOTES.md",
+    "Technology/Processes/Abyssal Refinement.md",
+    "Mechanics/DAZZLE & Q-DAZZLE.md"
+  ]
+}
