@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6fdb34444b025030",
+        "id": "c7e758972c00e2b0",
         "type": "tabs",
         "children": [
           {
-            "id": "a0440385ae885d39",
+            "id": "416e9116b6aa0573",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Nox Wyvern"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dimensions/Abyssal Dimension.md",
+                "file": "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Abyssal Dimension"
+              "title": "Outline of Nox Wyvern"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -181,7 +181,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a0440385ae885d39",
+  "active": "416e9116b6aa0573",
   "lastOpenFiles": [
     "Environment/TODO - Abyssal Matter.md",
     "Research/Materials/DAZZLE-class Alloys.md",

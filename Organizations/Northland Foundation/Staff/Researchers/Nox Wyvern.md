@@ -16,6 +16,7 @@ Not much is known about Nox's past. Only Executive Director Ryo Soikutsu, whom h
 ---
 
 > [!(Edit made by ███████ ███ ████████ on ███████)]
+> 
 > *Alright I don't know why the system censored my name, but Ryo here with more information about Nox*
 > 
 > *Nox has had a... less than ideal past. They spent much of their childhood and teenage years alone, without many friends and familiars to interact with. Their interests was niche, focused around cybersecurity and science fiction, in comparison to their peers' interests about k-pop and video games. They had a few close friends, either from their extra-curriculum club activities or the few games that they play.*
@@ -40,6 +41,7 @@ Due to their status as a biological human with no anomalous background, Nox does
 ---
 
 > [!(Edit made by ███████ ███ ████████ on ███████)]
+> 
 > *Hi, it's me again. There is some updates to make about Nox's abilities*
 > 
 > *It turns out that during the time when Nox and I shared a physical body, I unintentionally gave Nox the ability to store and manipulate abyssal energy. Nox's abilities were only discovered after an explosive accident somehow left Nox, and a small 1-metre circle around him unharmed.*
@@ -68,7 +70,7 @@ Due to their interest in weapons and shooting practice, Nox expresses proficienc
 - Arrowhead Sniper Rifle
 - Coda "Nighthawk" Pistol
 - "Arclight" Plasma Hand-held Railgun
-## Fighter Jets/UAVs
+### Vehicles
 - X-03 Strategic Wyvern (stealth/reconnaissance engineering kit)
 - MQ-99 "Barracuda" Unmanned Reconnaissance Drone (remote access)
 - MQ-250 "Liberty" Unmanned Aerial Arsenal Ship (remote access)
