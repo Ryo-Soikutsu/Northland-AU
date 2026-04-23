@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "06f9d41d88a6534b",
+        "id": "6fdb34444b025030",
         "type": "tabs",
         "children": [
           {
-            "id": "aa0baa7e451ba75c",
+            "id": "a0440385ae885d39",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Nox\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5110321044922
+    "width": 300
   },
   "right": {
     "id": "ee93bb7505249324",
@@ -160,53 +160,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "aa0baa7e451ba75c",
+  "active": "a0440385ae885d39",
   "lastOpenFiles": [
-    "Environment/Dimensions/Abyssal Dimension.md",
     "Environment/TODO - Abyssal Matter.md",
-    "Doctrines/Low-Orbital Support (LOS).md",
-    "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
-    "Research/Technology/Abyssal-powered Interdimensional Travel (AIT).md",
-    "Research/Technology/TODO - Neutralization, Disruption and Suppression (NDS).md",
     "Research/Materials/DAZZLE-class Alloys.md",
-    "Equipment/Aircraft/X-04 Hyper Wyvern.md",
-    "Doctrines/TODO - Long-Range Mobile Research (LRMR).md",
-    "Organizations/Northland Foundation/Staff/Researchers/Untitled.base",
-    "Research/Industry/TODO - Resource Harvesting.md",
-    "Research/Industry/TODO - Ore Refining and Processing.md",
-    "Organizations/Northland Foundation/Operations/TODO - Classification System.md",
-    "Organizations/Northland Foundation/Operations/TODO - Finance.md",
-    "Organizations/Northland Foundation/Operations/TODO - Day-to-Day Operations.md",
-    "Equipment/Spaceships/TODO - Aegis-Class Support Carrier.md",
-    "Equipment/Spaceships/TODO - Prospector-Class Industrial Carrier.md",
-    "Equipment/Spaceships",
-    "Environment/Dimensions/Abyssal Refinement.md",
-    "Operations/TODO - Operation Great Host Fleet II.md",
-    "Operations",
-    "TODO.md",
-    "Research/Industry/TODO - Manufacturing.md",
-    "Research/Technology",
-    "Research/Materials",
-    "Organizations/Northland Foundation/Staff/Mobile Task Forces/TODO - Crimson Squadron.md",
-    "Organizations/Northland Foundation/Staff/Mobile Task Forces",
-    "Organizations/Northland Foundation/Facilities/Sanctuary Site-0/TODO - Library of Alexandria.md",
-    "Organizations/Northland Foundation/Operations",
-    "Organizations/Northland Foundation/Facilities/Sanctuary Site-0/TODO - Headquarters.md",
-    "Organizations/Northland Foundation/Facilities/Sanctuary Site-0",
-    "Organizations/Northland Foundation/Facilities",
-    "Organizations/Northland Foundation/Staff/Executive Council",
-    "NOTES.md",
-    "Technology/Processes/Abyssal Refinement.md",
-    "Mechanics/DAZZLE & Q-DAZZLE.md"
+    "~/Repositories/Northland-AU/Research/Technology/TODO - Neutralization, Disruption and Suppression (NDS).md",
+    "~/Repositories/Northland-AU/Research/Technology/Abyssal-powered Interdimensional Travel (AIT).md",
+    "~/Repositories/Northland-AU/Research/Materials/DAZZLE-class Alloys.md",
+    "~/Repositories/Northland-AU/Research/Industry/TODO - Resource Harvesting.md",
+    "~/Repositories/Northland-AU/Research/Industry/TODO - Manufacturing.md",
+    "~/Repositories/Northland-AU/Research/Technology",
+    "~/Repositories/Northland-AU/Research/Materials",
+    "~/Repositories/Northland-AU/Research/Industry",
+    "~/Repositories/Northland-AU/Research",
+    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Staff/Researchers/Untitled.base",
+    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
+    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Staff/Mobile Task Forces/TODO - Crimson Squadron.md",
+    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Facilities/Sanctuary Site-0/TODO - Library of Alexandria.md",
+    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Facilities/Sanctuary Site-0/TODO - Headquarters.md",
+    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Staff/Executive Council/TODO - Ryo Soikutsu.md",
+    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Staff/Researchers",
+    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Staff/Mobile Task Forces",
+    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Staff/Executive Council",
+    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Operations/TODO - Finance.md",
+    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Operations/TODO - Day-to-Day Operations.md",
+    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Operations/TODO - Classification System.md",
+    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Facilities/Sanctuary Site-0",
+    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Staff",
+    "~/Repositories/Northland-AU/Operations/TODO - Operation Great Host Fleet II.md",
+    "~/Repositories/Northland-AU/Equipment/Spaceships/TODO - Prospector-Class Industrial Carrier.md",
+    "~/Repositories/Northland-AU/Equipment/Spaceships/TODO - Aegis-Class Support Carrier.md",
+    "~/Repositories/Northland-AU/Equipment/Aircraft/X-04 Hyper Wyvern.md",
+    "~/Repositories/Northland-AU/Environment/Dimensions/Abyssal Dimension.md",
+    "~/Repositories/Northland-AU/Environment/TODO - Abyssal Matter.md",
+    "~/Repositories/Northland-AU/Doctrines/TODO - Long-Range Mobile Research (LRMR).md",
+    "~/Repositories/Northland-AU/Doctrines/Low-Orbital Support (LOS).md",
+    "Organizations/Northland Foundation/Operations/Northland Global Unique Identification System.md",
+    "Environment/Dimensions/Abyssal Dimension.md",
+    "Research/Technology/Abyssal-powered Interdimensional Travel (AIT).md"
   ]
 }
