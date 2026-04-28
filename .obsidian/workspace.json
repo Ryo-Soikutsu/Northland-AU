@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
+                "file": "Environment/Abyssal Matter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nox Wyvern"
+              "title": "Abyssal Matter"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
+                "file": "Environment/Abyssal Matter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nox Wyvern"
+              "title": "Outline of Abyssal Matter"
             }
           },
           {
@@ -183,7 +183,8 @@
   },
   "active": "416e9116b6aa0573",
   "lastOpenFiles": [
-    "Environment/TODO - Abyssal Matter.md",
+    "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
+    "Environment/Abyssal Matter.md",
     "Research/Materials/DAZZLE-class Alloys.md",
     "~/Repositories/Northland-AU/Research/Technology/TODO - Neutralization, Disruption and Suppression (NDS).md",
     "~/Repositories/Northland-AU/Research/Technology/Abyssal-powered Interdimensional Travel (AIT).md",
@@ -217,7 +218,6 @@
     "~/Repositories/Northland-AU/Doctrines/TODO - Long-Range Mobile Research (LRMR).md",
     "~/Repositories/Northland-AU/Doctrines/Low-Orbital Support (LOS).md",
     "Organizations/Northland Foundation/Operations/Northland Global Unique Identification System.md",
-    "Environment/Dimensions/Abyssal Dimension.md",
-    "Research/Technology/Abyssal-powered Interdimensional Travel (AIT).md"
+    "Environment/Dimensions/Abyssal Dimension.md"
   ]
 }
