@@ -24,5 +24,9 @@ Abyssal-derived materials possess a wide range of unique properties, which makes
 	- Can also be used for transmutation into other elements
 - Abyssal slag: 
 	- Effectively useless byproduct
-	- Can be ejected into abyssal space as seed material for abyssal plasma orefields
+	- Can be ejected into abyssal space as seed material for abyssal plasma ore fields
 # Applications
+Precision-grade and fuel-grade abyssal-derived materials are classified as precious materials due to their strategic value and constant demand across Foundation operations. Precision-grade materials are primarily used in the production of abyssal-based supercomputing hardware, high-bandwidth networking systems, and ultra-dense data storage technologies. Fuel-grade materials serve as the primary reactant in abyssal reactors and plasma propulsion systems, while their depleted byproducts are repurposed into high-capacity battery systems capable of storing immense amounts of energy within a compact footprint.
+
+High-grade and general-use abyssal materials can be combined within industrial fabricators to produce highly durable composites, enabling the manufacture of equipment and machinery that require exceptional structural integrity and minimal long-term degradation. General-use abyssal materials may also be processed through element-capable 3D fabrication systems to synthesize objects composed of common elements and materials, including iron, nickel, and wood. However, neither high-grade nor general-use abyssal materials are capable of replicating organic elements or biological materials. 
+
