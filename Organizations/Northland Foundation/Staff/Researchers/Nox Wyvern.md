@@ -48,6 +48,8 @@ Due to their status as a biological human with no anomalous background, Nox does
 > 
 > *As of time of writing, Nox has completed the basic and intermediate courses in abyssal energy manipulation, and has developed his own unique ability - Observer's Veil. For recording sake, I have created an addendum to this section containing more information about his new ability.*
 > 
+> *Nox may also has some abilities and skills that are not documented here... :P*
+> 
 > *- Ryo Soikutsu*
 
 ## Addendum: Observer's Veil

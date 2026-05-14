@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Environment/Abyssal Matter.md",
+                "file": "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abyssal Matter"
+              "title": "Nox Wyvern"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Environment/Abyssal Matter.md",
+                "file": "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Abyssal Matter"
+              "title": "Outline of Nox Wyvern"
             }
           },
           {
@@ -183,8 +183,8 @@
   },
   "active": "416e9116b6aa0573",
   "lastOpenFiles": [
-    "Environment/Dimensions/Abyssal Dimension.md",
     "Environment/Abyssal Matter.md",
+    "Environment/Dimensions/Abyssal Dimension.md",
     "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
     "Research/Materials/DAZZLE-class Alloys.md",
     "~/Repositories/Northland-AU/Research/Technology/TODO - Neutralization, Disruption and Suppression (NDS).md",

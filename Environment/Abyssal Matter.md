@@ -30,3 +30,8 @@ Precision-grade and fuel-grade abyssal-derived materials are classified as preci
 
 High-grade and general-use abyssal materials can be combined within industrial fabricators to produce highly durable composites, enabling the manufacture of equipment and machinery that require exceptional structural integrity and minimal long-term degradation. General-use abyssal materials may also be processed through element-capable 3D fabrication systems to synthesize objects composed of common elements and materials, including iron, nickel, and wood. However, neither high-grade nor general-use abyssal materials are capable of replicating organic elements or biological materials. 
 
+Abyssal slag does not have any industrial or general use cases, and is considered a waste product from the refining chain. However, it can be jettisoned into abyssal space as a seed material for new abyssal plasma fields to form. When ejected into normal space, it may exhibit unpredictable behavior, such as disrupting FTL travel or jamming electronic communications. 
+
+# Creator's Notes
+- Abyssal plasma is similar to crude oil products, since both originate from the same chemical feedstock substance, and is processed into a set of refined byproducts
+- Different from element groups, which is based on atomic properties instead of practical use
