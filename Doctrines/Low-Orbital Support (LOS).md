@@ -3,7 +3,7 @@ The Low-Orbital Support (LOS) doctrine outlines the guidelines and specification
 
 This doctrine is focused around the support of ground operations, such as evacuations, base defense and strategic offensive missions. A typical squad running this doctrine will contain anywhere from 5-7 ships, with full LOS fleets capable of having as many as 15-20 squads at once. Ships in this doctrine should be rated for low orbit flight, with altitudes ranging from 25-100km for primary ground support vessels, to 250-1000km for escorts and logistics depending on planetary and atmospheric conditions.
 
-# Composition
+# Fleet Composition
 The LOS doctrine is made up of three primary ship classes:
 - **Ground support**: The core of the doctrine, these ships provide orbital firepower, command and control and manpower. These ships also feature airstrips for Pelican-class and Eagle-class aircraft to take off and land. These crafts typically operate at sub-orbital altitudes of 25-100km
 - **Heavy logistics**: Small, heavily armored and lightly armed freighters, these ships carry drop pods and freight containers containing equipment needed to support ground operations. These ships typically operate around altitudes of 350-1000km
@@ -23,7 +23,7 @@ Escort ships tend to be armed with medium to heavy cannons, designed for ship-to
 
 Ground support ships typically do not have any ship-to-ship weapons, only being armed with laser-based point defense weaponry for stray missiles and/or drones. Instead, they are outfitted with a range of suborbital/low-orbit weaponry, which can be swapped around between deployments. Firepower options can range from traditional explosive bombardments and barrages, to single high-power strikes and even environmental manipulation.
 
-## Offensive Attacks
+## Orbit-to-Ground Offensive Attacks
 - Artillery Barrage - Prolonged bombardment of artillery shells over a wide area, can be loaded with a variety of shells for different roles
 	- APFSDS - Non-explosive, kinetic penetration rounds designed to counter tanks, mechs and other heavily-armored vehicles. Primarily made of tungsten or depleted uranium
 	- High-Explosive - Anti-infantry rounds with moderate blast and low fragmentation, designed to counter low to medium armored targets and infantry
@@ -33,7 +33,7 @@ Ground support ships typically do not have any ship-to-ship weapons, only being 
 - Electromagnetic Strike - Underslung railcannon which launches depleted uranium-core APFSDS rounds with high accuracy, primarily designed for anti-tank and anti-building purposes. Fires in three-round bursts, allowing complete penetration of virtually any bunker or fortification
 - Missile Barrage - Prolonged firing of cluster missiles over a wide area targeting aerial forces. Primarily designed for aerial suppression of air superiority fighters and other aircraft when anti-air weaponry are disabled or insufficient
 
-## Non-Lethal Attacks
+## Orbit-to-Ground Non-Lethal Attacks
 - EMP Strike - Underslung railcannon which launches plasma-filled rounds (aka 'plasma slugs'), detonates on impact with little destructive force but a large, localized EMP effect. Effectively disables technology and other advanced equipment in the locale, while dealing minimal harm to humans and other organic beings
 - Biochemical Storm - Multiple cluster missiles that detonate when close to the ground, releasing gas or toxins over a large area. Primarily meant to knock out, confuse or otherwise disable hostile forces without dealing significant damage. Effective in evacuations and other defensive operations that require area denial with little to no civilian/friendly casualty
 
