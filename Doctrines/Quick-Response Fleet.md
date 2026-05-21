@@ -41,3 +41,6 @@ Under standard operating conditions, command ships are equipped with comparative
 A defining capability of command ships is their role as unmanned aerial and combat drone control hubs. These vessels deploy, coordinate, and sustain large-scale swarms of autonomous fighter drones, which serve multiple tactical and offensive functions: screening high-value fleet elements from enemy attacks, saturating and degrading enemy sensor and tracking systems, and executing strafing run attacks against medium and large targets. The drone complement typically spans a broad spectrum of roles, from light space-superiority interceptors to heavy ordnance-carrying bomber drones designed for capital-scale engagements.
 
 To sustain prolonged operations, command ships are equipped with limited onboard fabrication capabilities, allowing for partial replenishment and repair of drone assets using stored raw materials and components. However, for extended engagements or high attrition scenarios, they remain dependent on logistics tenders to resupply materials, replace specialized parts, and maintain sustained sortie generation rates.
+
+# Creator's Notes
+- Reference for entropic disintegrators: https://www.reddit.com/r/Eve/comments/10hl1t2/entropic_disintegrators_science_lore_wanted/
