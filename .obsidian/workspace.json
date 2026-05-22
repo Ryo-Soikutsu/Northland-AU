@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doctrines/Quick-Response Fleet.md",
+                "file": "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick-Response Fleet"
+              "title": "Nox Wyvern"
+            }
+          },
+          {
+            "id": "7034aa7b904a71f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Northland Foundation/Staff/Executive Council/Ryo Soikutsu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ryo Soikutsu"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doctrines/Quick-Response Fleet.md",
+                "file": "Organizations/Northland Foundation/Staff/Executive Council/Ryo Soikutsu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Quick-Response Fleet"
+              "title": "Outline of Ryo Soikutsu"
             }
           },
           {
@@ -181,17 +196,18 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "1a34a6c798d1aceb",
+  "active": "7034aa7b904a71f0",
   "lastOpenFiles": [
-    "Doctrines/Low-Orbital Support (LOS).md",
+    "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
+    "Organizations/Northland Foundation/Staff/Executive Council/Ryo Soikutsu.md",
     "Doctrines/Quick-Response Fleet.md",
+    "Doctrines/Low-Orbital Support (LOS).md",
     "Doctrines/TODO - Long-Range Mobile Research (LRMR).md",
     "Research/Technology/TODO - Universe-Scale Spatial Manipulation.md",
     "Research/Technology/Abyssal-powered Interdimensional Travel (AIT).md",
     "Research/Materials/DAZZLE-class Alloys.md",
     "Environment/Dimensions/Abyssal Dimension.md",
     "Environment/Abyssal Matter.md",
-    "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
     "~/Repositories/Northland-AU/Research/Technology/TODO - Neutralization, Disruption and Suppression (NDS).md",
     "~/Repositories/Northland-AU/Research/Technology/Abyssal-powered Interdimensional Travel (AIT).md",
     "~/Repositories/Northland-AU/Research/Materials/DAZZLE-class Alloys.md",
@@ -217,7 +233,6 @@
     "~/Repositories/Northland-AU/Organizations/Northland Foundation/Staff",
     "~/Repositories/Northland-AU/Operations/TODO - Operation Great Host Fleet II.md",
     "~/Repositories/Northland-AU/Equipment/Spaceships/TODO - Prospector-Class Industrial Carrier.md",
-    "~/Repositories/Northland-AU/Equipment/Spaceships/TODO - Aegis-Class Support Carrier.md",
-    "~/Repositories/Northland-AU/Equipment/Aircraft/X-04 Hyper Wyvern.md"
+    "~/Repositories/Northland-AU/Equipment/Spaceships/TODO - Aegis-Class Support Carrier.md"
   ]
 }
