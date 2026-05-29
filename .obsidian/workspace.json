@@ -181,8 +181,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c338c7773d45f6a4",
+  "active": "2d26508eae8881dd",
   "lastOpenFiles": [
+    "Organizations/Northland Security/Staff",
+    "Organizations/Northland Security/README.md.md",
+    "Organizations/Northland Security/Operations",
+    "Organizations/Northland Security/Facilities",
+    "Organizations/Northland Security",
     "Organizations/Northland Foundation/Operations/TODO - Classification System.md",
     "Organizations/Interstellar Communications/README.md.md",
     "Organizations/OASIS/README.md.md",
@@ -195,10 +200,7 @@
     "Organizations/OASIS/Operations",
     "Organizations/OASIS/Facilities",
     "Organizations/Northland Shipyards/Staff",
-    "Organizations/Northland Shipyards/Operations",
-    "Organizations/Northland Shipyards/Facilities",
     "Organizations/Northland Foundation/Staff/Executive Council/Ryo Soikutsu.md",
-    "Organizations/OASIS",
     "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
     "Doctrines/Quick-Response Fleet.md",
     "Doctrines/Low-Orbital Support (LOS).md",
@@ -216,8 +218,6 @@
     "~/Repositories/Northland-AU/Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
     "~/Repositories/Northland-AU/Organizations/Northland Foundation/Staff/Mobile Task Forces/TODO - Crimson Squadron.md",
     "~/Repositories/Northland-AU/Organizations/Northland Foundation/Facilities/Sanctuary Site-0/TODO - Library of Alexandria.md",
-    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Facilities/Sanctuary Site-0/TODO - Headquarters.md",
-    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Staff/Executive Council/TODO - Ryo Soikutsu.md",
-    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Operations/TODO - Finance.md"
+    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Facilities/Sanctuary Site-0/TODO - Headquarters.md"
   ]
 }
