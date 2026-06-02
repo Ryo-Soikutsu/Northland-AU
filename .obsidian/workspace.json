@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Environment/TODO - Abyssal Matter.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO - Abyssal Matter"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -173,8 +173,20 @@
   },
   "active": "aa0baa7e451ba75c",
   "lastOpenFiles": [
-    "Environment/Dimensions/Abyssal Dimension.md",
+    "conflict-files-obsidian-git.md",
     "Environment/TODO - Abyssal Matter.md",
+    "Research/Technology/TODO - Universe-Scale Spatial Manipulation.md",
+    "Organizations/OASIS/README.md.md",
+    "Organizations/OASIS",
+    "Organizations/Northland Shipyards/README.md.md",
+    "Organizations/Northland Shipyards",
+    "Organizations/Northland Foundation/Staff/Executive Council/Ryo Soikutsu.md",
+    "Organizations/Northland Foundation/README.md.md",
+    "Organizations/Interstellar Communications/README.md.md",
+    "Organizations/Interstellar Communications",
+    "Environment/Abyssal Matter.md",
+    "Doctrines/Quick-Response Fleet.md",
+    "Environment/Dimensions/Abyssal Dimension.md",
     "Doctrines/Low-Orbital Support (LOS).md",
     "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
     "Research/Technology/Abyssal-powered Interdimensional Travel (AIT).md",
@@ -192,22 +204,10 @@
     "Equipment/Spaceships/TODO - Prospector-Class Industrial Carrier.md",
     "Equipment/Spaceships",
     "Environment/Dimensions/Abyssal Refinement.md",
-    "Operations/TODO - Operation Great Host Fleet II.md",
     "Operations",
-    "TODO.md",
-    "Research/Industry/TODO - Manufacturing.md",
     "Research/Technology",
     "Research/Materials",
-    "Organizations/Northland Foundation/Staff/Mobile Task Forces/TODO - Crimson Squadron.md",
     "Organizations/Northland Foundation/Staff/Mobile Task Forces",
-    "Organizations/Northland Foundation/Facilities/Sanctuary Site-0/TODO - Library of Alexandria.md",
-    "Organizations/Northland Foundation/Operations",
-    "Organizations/Northland Foundation/Facilities/Sanctuary Site-0/TODO - Headquarters.md",
-    "Organizations/Northland Foundation/Facilities/Sanctuary Site-0",
-    "Organizations/Northland Foundation/Facilities",
-    "Organizations/Northland Foundation/Staff/Executive Council",
-    "NOTES.md",
-    "Technology/Processes/Abyssal Refinement.md",
-    "Mechanics/DAZZLE & Q-DAZZLE.md"
+    "Organizations/Northland Foundation/Operations"
   ]
 }
