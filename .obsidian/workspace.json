@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5110321044922
+    "width": 290.5
   },
   "right": {
     "id": "ee93bb7505249324",
@@ -161,6 +161,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
