@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
-                "mode": "preview",
+                "file": "Doctrines/Fleet Classification and Specifications.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nox Wyvern"
+              "title": "Fleet Classification and Specifications"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizations/Northland Foundation/Staff/Executive Council/Ryo Soikutsu.md",
-                "mode": "preview",
+                "file": "Operations/TODO - Defense of Sanctuary I.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ryo Soikutsu"
+              "title": "TODO - Defense of Sanctuary I"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +55,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -157,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizations/Northland Foundation/Staff/Executive Council/Ryo Soikutsu.md",
+                "file": "Doctrines/Fleet Classification and Specifications.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ryo Soikutsu"
+              "title": "Outline"
             }
           },
           {
@@ -196,10 +197,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e9eacf44e60e0887",
+  "active": "c338c7773d45f6a4",
   "lastOpenFiles": [
-    "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
     "Organizations/Northland Foundation/Staff/Executive Council/Ryo Soikutsu.md",
+    "Operations/TODO - Defense of Sanctuary I.md",
+    "Operations/TODO - Operation Great Host Fleet.md",
+    "Doctrines/Fleet Classification and Specifications.md",
+    "Research/Technology/Abyssal-powered Interdimensional Travel (AIT).md",
+    "Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
+    "Organizations/Northland Foundation/Staff/Researchers/Untitled.base",
     "conflict-files-obsidian-git.md",
     "Research/Supernatural/Abyssal Energy Manipulation.md",
     "Research/Supernatural",
@@ -217,12 +223,10 @@
     "Organizations/Northland Shipyards/README.md.md",
     "Organizations/Northland Foundation/README.md.md",
     "Organizations/OASIS/Staff",
-    "Organizations/OASIS/Operations",
     "Doctrines/Quick-Response Fleet.md",
     "Doctrines/Low-Orbital Support (LOS).md",
     "Doctrines/TODO - Long-Range Mobile Research (LRMR).md",
     "Research/Technology/TODO - Universe-Scale Spatial Manipulation.md",
-    "Research/Technology/Abyssal-powered Interdimensional Travel (AIT).md",
     "Research/Materials/DAZZLE-class Alloys.md",
     "Environment/Dimensions/Abyssal Dimension.md",
     "Environment/Abyssal Matter.md",
@@ -230,9 +234,6 @@
     "~/Repositories/Northland-AU/Research/Technology/Abyssal-powered Interdimensional Travel (AIT).md",
     "~/Repositories/Northland-AU/Research/Materials/DAZZLE-class Alloys.md",
     "~/Repositories/Northland-AU/Research/Industry/TODO - Resource Harvesting.md",
-    "~/Repositories/Northland-AU/Research/Industry/TODO - Manufacturing.md",
-    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Staff/Researchers/Nox Wyvern.md",
-    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Staff/Mobile Task Forces/TODO - Crimson Squadron.md",
-    "~/Repositories/Northland-AU/Organizations/Northland Foundation/Facilities/Sanctuary Site-0/TODO - Library of Alexandria.md"
+    "~/Repositories/Northland-AU/Research/Industry/TODO - Manufacturing.md"
   ]
 }

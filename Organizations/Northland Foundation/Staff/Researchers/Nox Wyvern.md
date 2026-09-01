@@ -61,7 +61,7 @@ In order to enter the mirror world, Nox must ensure that they are within 1 meter
 
 It is unknown if Observer's Veil can allow other people to pass through the reflection to the mirror world as well, as all recorded instances of Nox using Observer's Veil has been to transport themselves only to safety. It is assumed that Nox can control what can pass through the reflection, as Nox has been seen entering the dimension with several bullets in their body, only to emerge completely unscathed. 
 ## Known Combat Proficiency
-Due to their interest in weapons and shooting practice, Nox expresses proficiency in a wide range of weapons and combat vehicles, contrary to their non-combative nature. The following are the recorded proficiencies that Nox possesses
+Due to their interest in firearms and marksman practice, Nox expresses proficiency in a wide range of weapons and combat vehicles, contrary to their non-combative nature. The following are the recorded proficiencies that Nox possesses
 ### Weapons
 - Barrett M82 (semi-auto)
 - CS/LR High-Precision Sniper Rifle System (bolt-action)
